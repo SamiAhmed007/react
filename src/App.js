@@ -22,7 +22,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <HelloWorld name={'HEMALATHA CAROLIN PALAPARTHI'} />
+        <HelloWorld name={'Mohammed Sami Ahmed'} />
         <br />
         <Counter />
         <hr />
